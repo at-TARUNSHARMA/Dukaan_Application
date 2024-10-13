@@ -8,7 +8,6 @@ function App() {
   return (
     
     <div className='grid grid-cols-3'>
-      <sidebar/>
       <RevenueCard title={"Amount Pending"} ordercount={"13"} amount={"92,312.20"} />
     </div>
   )
